@@ -1,0 +1,28 @@
+{
+  "name": "coffeescript-browserify-spike",
+  "version": "0.0.0",
+  "description": "Figuring out how browserify could support source mapped coffee script compiled with coffee script redux.",
+  "main": "coffeescript-browserify-spike.js",
+  "scripts": {
+    "test": "node-trap test/*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/thlorenz/coffeescript-browserify-spike.git"
+  },
+  "homepage": "https://github.com/thlorenz/coffeescript-browserify-spike",
+  "dependencies": {
+    "coffee-script-redux": "~2.0.0-beta4"
+  },
+  "devDependencies": {},
+  "keywords": "",
+  "author": {
+    "name": "Thorsten Lorenz",
+    "email": "thlorenz@gmx.de",
+    "url": "http://thlorenz.com"
+  },
+  "license": "MIT",
+  "engine": {
+    "node": ">=0.6"
+  }
+}
