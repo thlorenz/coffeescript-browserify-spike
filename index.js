@@ -1,6 +1,6 @@
 'use strict';
 var CoffeeScript = require('coffee-script')
-  , convert = require('./convert-source-map');
+  , convert = require('convert-source-map');
 
 function inspect(obj, depth) {
   console.log(require('util').inspect(obj, false, depth || 5, true));

@@ -12,7 +12,8 @@
   },
   "homepage": "https://github.com/thlorenz/coffeescript-browserify-spike",
   "dependencies": {
-    "coffee-script": "~1.6.1"
+    "coffee-script": "~1.6.1",
+    "convert-source-map": "~0.1.0"
   },
   "devDependencies": {},
   "keywords": "",
